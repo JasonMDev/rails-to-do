@@ -23,7 +23,7 @@ These are some of the features that have been added to the web page.
 *   A Todo List Scaffold for main todo lists
 *   A Todo Item model and controller for individual items associated with the main todo Lists
 *   A patch method to be able to show items as complete
-*   Front-end styling
+*   Front-end styling (Credit to Mackenzie Child)
 
 ## Further information
 ### Rails Commands
