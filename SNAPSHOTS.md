@@ -1,27 +1,16 @@
 # Snapshots
-Here are some snapshots of specific pages of the website.
+Here are some snap shots of specific pages of the website.
 
 ## Homepage
 This is the landing page.
-![Alt text](app/assets/images/frontpage_admin.jpg?raw=true "Hompage")
+![Alt text](app/assets/images/homepage.jpg?raw=true "Hompage")
 
-## Add new post
-Here you can submit a post.
-![Alt text](app/assets/images/post_new.jpg?raw=true "New Post")
+## Add new Todo list
+Here you can create a new Todo List.
+![Alt text](app/assets/images/list_new.jpg?raw=true "New Todo List")
 
-## About page
-More information on the owner of the blog.
-![Alt text](app/assets/images/page_about.jpg?raw=true "About Page")
-
-## Submit comment about a post
-Here you can submit a comment.
-![Alt text](app/assets/images/post_comments_new.jpg?raw=true "New Comment")
-
-## View post comments as non-admin
-View current comments on about a post
-![Alt text](app/assets/images/comments_non_admin.jpg?raw=true "Comments")
-
-## View post comments as admin
-View current comments on about a post.
-As admin you can see the edit and deletion buttons for both posts and comments.
-![Alt text](app/assets/images/post_comments.jpg?raw=true "Comments")
+## View and edit current Todo lists
+Here you can view the todo list.
+You can add todo items specific for this list.
+Items can be marked as complete or be deleted.
+![Alt text](app/assets/images/list_current.jpg?raw=true "Current Todo List")
